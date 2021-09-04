@@ -1,0 +1,5 @@
+input"Enter range=",range
+For a =1 to range
+    print a+""
+    a=a+1
+    next a

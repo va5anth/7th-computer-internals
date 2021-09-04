@@ -1,0 +1,9 @@
+F=1
+Input "Enter value=",N
+S=1
+I=F
+While I<=N
+S=s*i
+I=i+1
+End while 
+Print S

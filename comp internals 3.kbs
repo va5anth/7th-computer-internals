@@ -1,0 +1,10 @@
+input"enter number from 1 to 10=", I
+FV=1
+SV=1
+output=0
+while FV<= I
+SV= FV*FV
+output =output+SV
+FV=FV+1
+end while
+print " result= "+output

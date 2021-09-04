@@ -1,0 +1,5 @@
+input"enter number=",n
+for I=1 to 10
+b= n*i
+print n +"*"+i+"="+b
+next i
